@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="mystyle.css">
-    <title>Title</title> About me and my hobbies!
+    <title>About me and my hobbies!</title> 
     <style>
 
     </style>
